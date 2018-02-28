@@ -122,7 +122,11 @@
       <file name="$USER_HOME$/IdeaProjects/git-warm-up/js/warm-up.js" timestamp="1517326412066">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/ControlFlowExercises.java" timestamp="1519838206117" />
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/ControlFlowExercises.java" timestamp="1519839496947">
+        <mark key="[" line="176" column="12" />
+        <mark key="]" line="176" column="12" />
+        <mark key="." line="176" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/Inline-JS.html" timestamp="1516917537023">
         <mark key="[" line="4" column="16" />
       </file>
@@ -207,25 +211,39 @@
         <text>!accumulator.names) {</text>
       </register>
       <register name="1" type="4">
+        <text>System.out.print(&quot;\nDo you wish to continue? [y/n] or [yes/no]&quot;);
+            String userChoice = sc.next();
+            if (userChoice.equalsIgnoreCase(&quot;y&quot;) || userChoice.equalsIgnoreCase(&quot;yes&quot;)) {
+                willContinue = true;
+            } else {
+                willContinue = false;
+            }
+        }while (willContinue);</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>System.out.print(&quot;\nDo you wish to continue? [y/n] or [yes/no]&quot;);
+            String userChoice = sc.next();
+            if (userChoice.equalsIgnoreCase(&quot;y&quot;) || userChoice.equalsIgnoreCase(&quot;yes&quot;)) {
+                willContinue = true;
+            } else {
+                willContinue = false;
+            }
+        }while (willContinue);</text>
+      </register>
+      <register name="2" type="4">
         <text>,
   ]
 }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>function sayHello(name) {
     return &quot;Hi&quot; + name + &quot;!&quot;;
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>border-box;
     font-family: sans-serif;
 }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+TWVkaWEgUXVlcmllczwvdGl0bGU+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImNzcy9tZWRpYS1xdWVyaWVzLmNzcyI+Cgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -276,6 +294,9 @@
           <key char="65535" code="10" mods="0" />
           <key char="65535" code="10" mods="0" />
         </keys>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+TWVkaWEgUXVlcmllczwvdGl0bGU+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImNzcy9tZWRpYS1xdWVyaWVzLmNzcyI+Cgo=</text>
       </register>
       <register name="w" type="4">
         <text />
