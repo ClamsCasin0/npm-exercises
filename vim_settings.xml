@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/StringExercise.java" timestamp="1519943481977">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1520013492816">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/external.js" timestamp="1516918427876">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,8 +49,10 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/data/inventory.json" timestamp="1518707756749">
         <mark key="[" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/RestaurantTest.java" timestamp="1520009712196">
-        <mark key="[" line="2" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/RestaurantTest.java" timestamp="1520014917364">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/coffee-project/main.js" timestamp="1518042703516">
         <mark key="[" line="0" column="12" />
@@ -180,6 +185,7 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/RestaurantDish.java" timestamp="1520005967588">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/oop/RestaurantDish.java" timestamp="1520014456442" />
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/planets-js.html" timestamp="1517515765801">
         <mark key="[" line="4" column="17" />
       </file>
@@ -242,14 +248,7 @@
         }while (willContinue);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>System.out.print(&quot;\nDo you wish to continue? [y/n] or [yes/no]&quot;);
-            String userChoice = sc.next();
-            if (userChoice.equalsIgnoreCase(&quot;y&quot;) || userChoice.equalsIgnoreCase(&quot;yes&quot;)) {
-                willContinue = true;
-            } else {
-                willContinue = false;
-            }
-        }while (willContinue);</text>
+        <text>burger.mostPopularTopping)</text>
       </register>
       <register name="2" type="4">
         <text>,
@@ -326,7 +325,7 @@
         <text>wiohbaaaasadw</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>burger.mostPopularTopping)</text>
       </register>
     </registers>
     <search>
