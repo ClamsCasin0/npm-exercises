@@ -87,11 +87,11 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/MoviesArray.java" timestamp="1520271912311">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/MoviesApplication.java" timestamp="1520353117469">
-        <mark key="[" line="93" column="53" />
-        <mark key="]" line="88" column="5" />
-        <mark key="^" line="88" column="5" />
-        <mark key="." line="88" column="5" />
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/MoviesApplication.java" timestamp="1520359337987">
+        <mark key="[" line="95" column="53" />
+        <mark key="]" line="90" column="5" />
+        <mark key="^" line="90" column="5" />
+        <mark key="." line="90" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/planets-string.js" timestamp="1517506652056">
         <mark key="[" line="12" column="0" />
@@ -171,6 +171,7 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/es6.html" timestamp="1519967337814">
         <mark key="[" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/Movie.java" timestamp="1520358080732" />
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/functions_js.html" timestamp="1516999592441">
         <mark key="[" line="6" column="6" />
       </file>
@@ -362,7 +363,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
