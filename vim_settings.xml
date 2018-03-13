@@ -33,11 +33,6 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/Konami.html" timestamp="1518538518055">
         <mark key="[" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/RestaurantTest.java" timestamp="1520014917364">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/shapes/Measurable.java" timestamp="1520440529397">
         <mark key="[" line="2" column="29" />
       </file>
@@ -77,18 +72,8 @@
       <file name="$USER_HOME$/IdeaProjects/git-warm-up/js/warm-up.js" timestamp="1517326412066">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/ControlFlowExercises.java" timestamp="1520351834956">
-        <mark key="[" line="180" column="12" />
-        <mark key="]" line="180" column="12" />
-        <mark key="." line="180" column="12" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/Inline-JS.html" timestamp="1516917537023">
         <mark key="[" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/map-filter-reduce.js" timestamp="1519243272026">
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="76" column="14" />
-        <mark key="." line="76" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/external_js.html" timestamp="1516920015622">
         <mark key="[" line="4" column="17" />
@@ -125,9 +110,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/teddy-js-assessment/assessment.html" timestamp="1517432200204">
         <mark key="[" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/contacts-manager/src/Contacts.java" timestamp="1520891193207">
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/util/FileHelper.java" timestamp="1520891812335">
         <mark key="[" line="2" column="25" />
@@ -220,11 +202,6 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/es6.js" timestamp="1519161910415">
         <mark key="[" line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/npm-exercises/src/index.js" timestamp="1519340426720">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/break_and_continue.js" timestamp="1517349731403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -255,11 +232,6 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/movie.java" timestamp="1520267003721">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/movies-application/db.json" timestamp="1519678306119">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/js/external.js" timestamp="1516990962794">
         <mark key="[" line="6" column="52" />
       </file>
@@ -287,6 +259,7 @@
       <file name="/fragment.java" timestamp="1519923429023">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/util/Input.java" timestamp="1520951237958" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/codeup-web-excercises/css/pizza-time.css" />
