@@ -21,8 +21,10 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/shapes/Quadrilateral.java" timestamp="1520440887130">
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/util/FileHelper.java" timestamp="1520891812335">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/util/FileHelper.java" timestamp="1521062082759">
+        <mark key="[" line="112" column="42" />
+        <mark key="]" line="112" column="42" />
+        <mark key="." line="112" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/external.js" timestamp="1516918427876">
         <mark key="[" line="0" column="0" />
@@ -299,7 +301,7 @@
         }while (willContinue);</text>
       </register>
       <register name="&quot;" type="4">
-        <text>burger.mostPopularTopping)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text>,
@@ -376,7 +378,7 @@
         <text>wiohbaaaasadw</text>
       </register>
       <register name="-" type="4">
-        <text>burger.mostPopularTopping)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
