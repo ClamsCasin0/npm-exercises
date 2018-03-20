@@ -60,7 +60,7 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/MoviesArray.java" timestamp="1520271912311">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/database-exercises/where_exercises.sql" timestamp="1521495838859">
+      <file name="$USER_HOME$/IdeaProjects/database-exercises/where_exercises.sql" timestamp="1521555965262">
         <mark key="[" line="52" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/npm-exercises/public/index.html" timestamp="1519334551180">
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/shapes/Square.java" timestamp="1520443064184">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/database-exercises/order_by_exercises.sql" timestamp="1521493042640">
+      <file name="$USER_HOME$/IdeaProjects/database-exercises/order_by_exercises.sql" timestamp="1521555824248">
         <mark key="[" line="7" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/git-warm-up/js/warm-up.js" timestamp="1517326412066">
@@ -106,6 +106,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/split-join.html" timestamp="1517506175266">
         <mark key="[" line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/database-exercises/functions_exercise.sql" timestamp="1521556813665">
+        <mark key="[" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/for_loops.js" timestamp="1517349297768">
         <mark key="[" line="0" column="0" />
@@ -198,12 +201,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/shapes/ShapesTest.java" timestamp="1520443481644">
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/codeup-java-exercises/src/movies/MoviesApplication.java" timestamp="1521063704037">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="91" column="5" />
-        <mark key="^" line="91" column="5" />
-        <mark key="." line="91" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/codeup-web-excercises/JS/planets-string.js" timestamp="1517506652056">
         <mark key="[" line="12" column="0" />
