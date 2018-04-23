@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="contacts" type="PLAIN_TEXT" />
+      <mapping pattern=".build_config" type="PLAIN_TEXT" />
       <mapping ext="ndm" type="UML" />
     </extensionMap>
   </component>
